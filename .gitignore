@@ -3,3 +3,4 @@ target
 .idea
 
 fixtures/symbol_server/*
+Cargo.lock
